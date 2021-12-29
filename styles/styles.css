@@ -1,0 +1,35 @@
+header, section {
+  padding-top: 9.5rem;
+  padding-bottom: 6rem;
+  background-color: #edf2fb;
+}
+
+header {
+  background-color: #1b4965;
+  color: #fff;
+}
+
+section {
+  padding-left: 28%;
+  padding-right: 28%;
+}
+
+.main-button {
+  margin: 3% 2.5% 0 2.5%;
+}
+
+.even {
+  background-color: #e2eafc;
+}
+
+.footer-text {
+  color: #6c757d;
+  cursor: default;
+  margin: 0;
+  text-align: center;
+  transition: all 0.25s ease;
+}
+
+.footer-text:hover {
+  color: #ced4da;
+}
